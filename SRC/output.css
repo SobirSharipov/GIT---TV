@@ -1082,6 +1082,11 @@ video {
     margin-right: 20%;
   }
 
+  .xs\:my-\[20px\] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
   .xs\:ml-\[\] {
     margin-left: ;
   }
