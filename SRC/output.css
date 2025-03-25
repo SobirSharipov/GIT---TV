@@ -640,10 +640,6 @@ video {
   margin-top: 80px;
 }
 
-.mt-\[\] {
-  margin-top: ;
-}
-
 .block {
   display: block;
 }
@@ -832,11 +828,6 @@ video {
 .py-\[70px\] {
   padding-top: 70px;
   padding-bottom: 70px;
-}
-
-.py-\[\] {
-  padding-top: ;
-  padding-bottom: ;
 }
 
 .text-center {
